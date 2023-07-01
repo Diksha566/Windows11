@@ -6,7 +6,16 @@
 body{
  background-image: url(bg.jpeg);
  background-size: cover;
+  overflow: hidden;  
 }
+
+/*
+.right{
+    justify-self: flex-end;
+    position: absolute;
+    right: 0 !important;
+    }
+    */
 
 .taskbar{
     width: 100%;
@@ -16,3 +25,20 @@ body{
     justify-content: center;
    
  }
+
+startmeanu img{
+    height: 650px;
+    width: 550px;
+    border-radius: 8px;
+}
+ .startmeanu{
+    position: absolute;
+   bottom: 70px; 
+    width: 100%;
+    text-align: center;
+    size: 50px;
+  /* bottom: -652px; */
+    transition: all 0.3sc ease-in;
+ 
+ }
+ 
