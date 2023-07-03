@@ -15,3 +15,6 @@ Image 1 :
 
 Image 2 : Click on taskbar to open up Startmeanu.
 ![Screenshot (609)](https://github.com/Diksha566/Windows11/assets/121545576/85f39a32-733c-4237-9011-5a25be273b37)
+
+# Thanks for Visiting
+Please 🌟 this repository! It really helps others to find this🩷!! 
